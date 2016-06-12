@@ -1,4 +1,4 @@
-#First revision for testing with Git - inside of app01 branch
+#First revision for testing FETCH with Git - inside of app01 branch
 
 import datetime
 import requests
